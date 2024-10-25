@@ -1,6 +1,7 @@
+import Homepage from "../src/routes/homepage/Homepage"
 const App = () => {
   return (
-    <div>Hello World</div>
+    <Homepage/>
   )
 }
 
